@@ -3,7 +3,7 @@
 This project is to use CV techniques to improve the resolution of the images and compare the performances of different methods. 
 Methods include SRCNN, Autoencoder, and GAN.
 
-Access to our datasets for code using: https://drive.google.com/drive/folders/1OLzv_DeIB1M8jAXp8ncMdJNbvC6eJYIl?usp=sharing
+Access to dataset: https://drive.google.com/drive/folders/1OLzv_DeIB1M8jAXp8ncMdJNbvC6eJYIl?usp=sharing
 
 Sources:
 #### https://www.kaggle.com/datasets/quadeer15sh/image-super-resolution-from-unsplash
